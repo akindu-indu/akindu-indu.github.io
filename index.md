@@ -3,9 +3,15 @@ title: "Your Name - Portfolio"
 layout: default
 ---
 
-Screenshot%20(520).png
+<div align="center">
+  
+![Profile Picture](/assets/profile.jpg){:width="200px"}
+
 # Your Name
 **Web Developer & Designer**
+
+</div>
+
 
 ## 👋 About Me
 Hello! I'm a passionate developer with experience in web technologies. I love creating clean, efficient code and beautiful user experiences.
