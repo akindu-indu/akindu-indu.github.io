@@ -3,14 +3,7 @@ title: "Your Name - Portfolio"
 layout: default
 ---
 
-<div align="center">
-  
-![Profile Picture](aaa.jpg)
-
-# Your Name
-**Web Developer & Designer**
-
-</div>
+<img src="/images/aaa.jpg" alt="My Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 
 
 ## 👋 About Me
