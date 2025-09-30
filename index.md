@@ -5,7 +5,7 @@ layout: default
 
 <div align="center">
   
-![Profile Picture](aaa.jpg){:width="200px"}
+![Profile Picture](aaa.jpg)
 
 # Your Name
 **Web Developer & Designer**
