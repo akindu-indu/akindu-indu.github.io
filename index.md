@@ -5,7 +5,7 @@ layout: default
 
 <div align="center">
   
-![Profile Picture](/images/akindu.png){:width="200px"}
+![Profile Picture](/akindu.png){:width="200px"}
 
 # Your Name
 **Web Developer & Designer**
