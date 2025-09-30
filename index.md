@@ -3,7 +3,9 @@ title: "Your Name - Portfolio"
 layout: default
 ---
 
-<img src="/aaa.jpg" alt="My Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; align:center;">
+<div align:center;>
+  <img src="/aaa.jpg" alt="My Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+</div>
 
 
 ## 👋 About Me
